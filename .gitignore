@@ -1,0 +1,16 @@
+# Compiled class files
+*.class
+bin/
+out/
+classes/
+*.log
+
+# macOS system files
+.DS_Store
+
+.idea/
+*.iml
+.vscode/
+
+*.bak
+*~
